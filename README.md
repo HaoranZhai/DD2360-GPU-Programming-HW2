@@ -12,11 +12,6 @@ This homework focuses on CUDA performance techniques including:
 
 ## Repository Layout
 
-> Your repo may either contain the folder `DD2360HT25_HW2_Group18/` at the top level, or its contents directly.  
-> The structure below reflects the original zip structure.
-
-```
-
 DD2360HT25_HW2_Group18/
 ├── DD2360HT25_HW2_Group18.pdf        # Report (optional to keep public)
 ├── data_Lab2-main/                   # Extra notes/data files (not required to run code)
@@ -236,5 +231,6 @@ Add these under **About → Topics** for better search:
 ---
 
 ## License
+
 
 MIT License.
